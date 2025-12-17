@@ -1,0 +1,5 @@
+Passo a passo para baixar:
+
+Baixar o arquivo Momo_Express-c0.2.rar
+Após baixar o arquivo, extrair tudo na maquina
+Após extrair tudo, executar arquivo "Momo Express"
